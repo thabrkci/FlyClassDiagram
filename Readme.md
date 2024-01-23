@@ -25,6 +25,6 @@
 ```
 ***
 ***
-![ClassDiagram](FlyClassDiagram.jpg)
+![FlyClassDiagram](FlyClassDiagram.jpg)
 ***
 ***
